@@ -1,0 +1,53 @@
+.slogan {
+    position: relative;
+    bottom: -10%;
+
+    &-title {
+        position: relative;
+        margin-bottom: 28px;
+        font-size: 28px;
+        color: @brand-primary;
+
+        &:after {
+            position: absolute;
+            content: '';
+            left: 0;
+            right: 0;
+            bottom: -18px;
+            height: 3px;
+            background: @gray-dark;
+        }
+    }
+
+    &-title-sub {
+        position: relative;
+        font-size: 22px;
+        line-height: 1.4;
+        color: darken(#fff, 20%);
+
+        &:before {
+            position: absolute;
+            content: '';
+            top: -15px;
+            left: 0;
+            width: 170px;
+            height: 2px;
+            background: @brand-primary;
+        }
+    }
+
+    &-underlined {
+        color: #fff;
+        font-weight: bold;
+    }
+
+    @media (max-width: @screen-sm-max) {
+        &-title {
+            font-size: 150%;
+        }
+
+        &-title-sub {
+            font-size: 135%;
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "idt.by",
+  "version": "1.0.0",
+  "description": "technology company website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anna-artyushkevich/idt.by.git"
+  },
+  "keywords": [
+    "idt.by"
+  ],
+  "author": "anna-artyushkevich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anna-artyushkevich/idt.by/issues"
+  },
+  "homepage": "https://github.com/anna-artyushkevich/idt.by#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-less": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4"
+  },
+  "dependencies": {
+    "gulp-clean-css": "^4.0.0"
+  }
+}

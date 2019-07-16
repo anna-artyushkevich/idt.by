@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="108.81856043791049" width="108.81336043795068">
+  <defs>
+    <rect id="rect-0" opacity="1" x="9.406660218975276" y="9.411860218937363" width="90.0000399999999" height="89.99484000003667"/>
+    <ellipse id="ellipse-1" opacity="1" rx="45.00001999999995" ry="44.99742000001834" cx="54.406680218975225" cy="54.4092802189557"/>
+    <path id="path-2" opacity="1" fill-rule="evenodd" d="M39.72036913934305,47.09435129862072 L55.13829349803764,62.57770948552684 L70.57382948557944,47.313447208716696 "/>
+  </defs>
+  <g transform="translate(54.406680218975225, 54.4092802189557) scale(1, -1) translate(-54.406680218975225, -54.4092802189557) translate(54.406680218975225, 54.4092802189557) rotate(-90.00003218077504) translate(-54.406680218975225, -54.4092802189557)" opacity="1">
+    <g opacity="1">
+      <use xlink:href="#ellipse-1" fill="rgb(51,51,51)" fill-opacity="1"/>
+    </g>
+    <g transform="translate(55.147099312461236, 54.83603039207378) rotate(-90.00003218077504) translate(-55.147099312461236, -54.83603039207378)" opacity="1">
+      <use xlink:href="#path-2" fill-opacity="0" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="4" stroke-linecap="round" stroke-linejoin="miter"/>
+    </g>
+  </g>
+</svg>
